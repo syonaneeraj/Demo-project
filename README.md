@@ -1,2 +1,0 @@
-# Demo-project
-Initial trial
